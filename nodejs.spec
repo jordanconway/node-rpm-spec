@@ -1,4 +1,4 @@
-%define ver  0.8.17
+%define ver  0.8.18
 %define rel  1
 %define jobs 2
 
@@ -51,8 +51,10 @@ rm -rf %{buildroot}
 /usr/lib/dtrace/node.d
 
 %changelog
+* Wed Jan 18 2012 Jordan Conway <jordan@jordanconway.com> 0.8.18-1
+- RPM using upstream v0.8.18
 * Wed Jan 18 2012 Jordan Conway <jordan@jordanconway.com> 0.8.17-1
-- RPM using upstream v0.8.16
+- RPM using upstream v0.8.17
 * Wed Dec 19 2012 Jordan Conway <jordan@jordanconway.com> 0.8.16-1
 - RPM using upstream v0.8.16
 - Forked spec on github
