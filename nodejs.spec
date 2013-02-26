@@ -51,15 +51,15 @@ rm -rf %{buildroot}
 /usr/lib/dtrace/node.d
 
 %changelog
-* Wed Feb 26 2012 Jordan Conway <jordan@jordanconway.com> 0.8.21-1
+* Tue Feb 26 2013 Jordan Conway <jordan@jordanconway.com> 0.8.21-1
 - RPM using upstream v0.8.21
-* Wed Feb 15 2012 Jordan Conway <jordan@jordanconway.com> 0.8.20-1
+* Wed Feb 15 2013 Jordan Conway <jordan@jordanconway.com> 0.8.20-1
 - RPM using upstream v0.8.20
-* Wed Feb 06 2012 Jordan Conway <jordan@jordanconway.com> 0.8.19-1
+* Wed Feb 06 2013 Jordan Conway <jordan@jordanconway.com> 0.8.19-1
 - RPM using upstream v0.8.19
-* Wed Jan 18 2012 Jordan Conway <jordan@jordanconway.com> 0.8.18-1
+* Wed Jan 18 2013 Jordan Conway <jordan@jordanconway.com> 0.8.18-1
 - RPM using upstream v0.8.18
-* Wed Jan 18 2012 Jordan Conway <jordan@jordanconway.com> 0.8.17-1
+* Wed Jan 18 2013 Jordan Conway <jordan@jordanconway.com> 0.8.17-1
 - RPM using upstream v0.8.17
 * Wed Dec 19 2012 Jordan Conway <jordan@jordanconway.com> 0.8.16-1
 - RPM using upstream v0.8.16
