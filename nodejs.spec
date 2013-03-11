@@ -43,16 +43,14 @@ rm -rf %{buildroot}
 
 /usr/bin/node
 /usr/bin/npm
-/usr/bin/node-waf
-/usr/include/node
 /usr/share/man/man1/node.1.gz
-/usr/lib/node
 /usr/lib/node_modules
 /usr/lib/dtrace/node.d
 
 %changelog
 * Mon Mar 11 2013 Jordan Conway <jordan@jordanconway.com> 0.10.0-1
 - RPM using upstream v0.10.0
+- removed files
 * Thu Mar 7 2013 Jordan Conway <jordan@jordanconway.com> 0.8.21-1
 - RPM using upstream v0.8.22
 * Tue Feb 26 2013 Jordan Conway <jordan@jordanconway.com> 0.8.21-1
