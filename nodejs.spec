@@ -48,7 +48,7 @@ rm -rf %{buildroot}
 /usr/lib/dtrace/node.d
 
 %changelog
-* Wed Apr 03 2013 Jordan Conway <jordan@jordanconway.com> 0.10.13-1
+* Wed Apr 03 2013 Jordan Conway <jordan@jordanconway.com> 0.10.3-1
 - RPM using upstream v0.10.3
 * Thu Mar 21 2013 Jordan Conway <jordan@jordanconway.com> 0.10.1-1
 - RPM using upstream v0.10.1
