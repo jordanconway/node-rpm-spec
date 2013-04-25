@@ -1,4 +1,4 @@
-%define ver  0.10.4
+%define ver  0.10.5
 %define rel  1
 %define jobs 2
 
@@ -48,6 +48,8 @@ rm -rf %{buildroot}
 /usr/lib/dtrace/node.d
 
 %changelog
+* Thu Apr 25 2013 Jordan Conway <jordan@jordanconway.com> 0.10.5-1
+- RPM using upstream v0.10.5
 * Thu Apr 11 2013 Jordan Conway <jordan@jordanconway.com> 0.10.4-1
 - RPM using upstream v0.10.4
 * Wed Apr 03 2013 Jordan Conway <jordan@jordanconway.com> 0.10.3-1
